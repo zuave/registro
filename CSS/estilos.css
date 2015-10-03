@@ -1,0 +1,73 @@
+*
+{
+	border:0;
+	margin:0;
+	padding 0;
+
+}
+
+body {
+    background: olive;
+
+  }
+
+
+h1
+{
+  font-family: 'Opens-Sans', sans-serif;
+  margin: auto;
+  padding: 50px;
+  text-align: Left;
+
+}
+
+article
+{
+    color: #eaeaea;
+    text-align: left;
+    font-size: 32px;
+
+}
+
+
+form
+
+{
+	border-bottom: black 10px;
+	float: left;
+  font-family: "Pecita", sans-serif ;
+	margin: 18px;
+  padding: 20px;
+	text-align: left;
+	width: 60%;
+
+
+}
+
+a
+	{
+		color: #eaeaea;
+		font-size: 18px;
+		padding: 20px;
+		text-decoration: none;
+		text-align: left;
+
+	}
+
+
+input {
+	border: 1px dotted black;
+	background: red;
+	width: 80%
+}
+
+img.desplazada {
+	float: right;
+	top: 10px;
+	display: inline;
+
+}
+
+a:hover {
+	text-decoration: underline;
+ }
